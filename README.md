@@ -1,7 +1,5 @@
 ### Hi there, nice to see you! 👋
 
-- 📫 How to reach me: ...
-
 - 🏢 I'm currently working at [Verbit](https://verbit.ai) as SRE Team Lead
 - 🌱 I’m currently learning how to implement: ephemeral self-provisioned development environments, workflows for handling vulnerabilities in the source code, tooling for launching speech-ML training
 - ⚙️ My tools of choice are: Python (programming languages), Terraform (IaaC), Ansible (CfgMgmt), ECS/K8S (container orchestration), AWS (public cloud)
