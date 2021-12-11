@@ -1,7 +1,11 @@
 ### Hi there, nice to see you! 👋
 
-- 🏢 I'm currently working at [Verbit](https://verbit.ai) as SRE Team Lead
-- 🌱 I’m currently learning how to implement: ephemeral self-provisioned development environments, workflows for handling vulnerabilities in the source code, tooling for launching speech-ML training
+- 🏢 I'm currently working at [Verbit](https://verbit.ai) as SRE Team Lead, and we're hiring!
+- 🌱 Projects I'm involved in include: 
+    - team workflow for AWS multi-account multi-region infrastructure repo
+    - ephemeral self-provisioned development environments
+    - workflows for handling vulnerabilities in the source code
+    - write tooling for speech-ML training on top of ECS/EFS
 - ⚙️ My tools of choice are: Python (programming languages), Terraform (IaaC), Ansible (CfgMgmt), ECS/K8S (container orchestration), AWS (public cloud)
 - 👯 Interested in contibuting in **Open Source projects**:
 - 📫 How to reach me: [Email](mailto:mvasilenko@gmail)
