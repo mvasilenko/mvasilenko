@@ -1,8 +1,8 @@
 ### Hi there, nice to see you! 👋
 
-- 🏢 I'm currently working at [Verbit](https://verbit.ai) as SRE Team Lead, and we're hiring!
-- 🌱 Projects I'm involved in include: 
-    - team workflow for AWS multi-account multi-region infrastructure repo
+- 🏢 I'm currently working at [Verbit](https://verbit.ai) as SRE Team Lead
+- 🌱 Projects: 
+    - IaaC CI/CD platform for AWS multi-account multi-region based on GitHub/Atlantis/Terragrunt
     - ephemeral self-provisioned development environments
     - workflows for handling vulnerabilities in the source code
     - write tooling for speech-ML training on top of ECS/EFS
