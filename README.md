@@ -10,6 +10,9 @@
 - 👯 Interested in contibuting in **Open Source projects**:
 - 📫 How to reach me: [Email](mailto:mvasilenko@gmail)
 
+some search keywords at the bottom
+Mykhailo Vasylenko Michael Vasilenko Porto Portugal
+
 <!--
 **mvasilenko/mvasilenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
